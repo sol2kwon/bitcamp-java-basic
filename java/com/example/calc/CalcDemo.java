@@ -20,7 +20,7 @@ public class CalcDemo {
         Scanner scanner = new Scanner(System.in);
         System.out.println("숫자1:  ");
         int num1 = scanner.nextInt();
-        System.out.println("연산기호:  ");
+        System.out.println("연산기호 + - * /:");
         String opcode = scanner.next();
         System.out.println("숫자2:  ");
         int num2 = scanner.nextInt();
