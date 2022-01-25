@@ -1,7 +1,14 @@
 package com.example.calc;
 /**
- * 숫자 2개와 연산자 1개를 받아서 계산하는 계산을 코딩하시오
- * int/String
+ * packageName: com.example
+ * fileName   : Test
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : 숫자2개와 연산자를 받아서 결과를 리턴하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
  */
 
 public class CalcApp {

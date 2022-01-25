@@ -1,4 +1,15 @@
 package com.example.good;
+/**
+ * packageName: com.example
+ * fileName   : GoodApp.Java
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : 이름과 나이를 받아서 결과를 리턴하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
+ */
 
 public class GoodApp {
     public static String website = "이름과 나이를 말씀해주세요";

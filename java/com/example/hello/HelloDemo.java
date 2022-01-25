@@ -1,6 +1,18 @@
 package com.example.hello;
 
 import java.util.Scanner;
+/**
+ * packageName: com.example
+ * fileName   : HelloDemo.Java
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : id,pw,name을 실행하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
+ */
+
 
 public class HelloDemo {
     public static void main(String[] args) {

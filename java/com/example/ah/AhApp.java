@@ -1,4 +1,15 @@
 package com.example.ah;
+/**
+ * packageName: com.example
+ * fileName   : AhApp.Java
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : 이름과 나이를 입력받아서, 인사말을 리턴하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
+ */
 
 public class AhApp {
     public static String website = "하이이이이이";

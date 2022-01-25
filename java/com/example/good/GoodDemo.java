@@ -1,4 +1,15 @@
 package com.example.good;
+/**
+ * packageName: com.example
+ * fileName   : GoodDemo.Java
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : 이름과 나이를 실행하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
+ */
 
 import java.util.Scanner;
 

@@ -1,4 +1,15 @@
 package com.example.oh;
+/**
+ * packageName: com.example
+ * fileName   : OpApp.Java
+ * author     : kwonsolyi
+ * date       : 2022-01-25
+ * desc       : 숫자2개와 연산자를 받아서 결과를 리턴하는 앱
+ * ================================
+ * DATE              AUTHOR        NOTE
+ * ================================
+ * 2022-01-25       kwonsolyi       최초 생성
+ */
 
 public class OpApp {
     public static String website = "계산기 어플";
